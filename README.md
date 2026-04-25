@@ -6,4 +6,4 @@
 
 - currently revamping [**Indus**](https://indus-trade.vercel.app/)
 
-- check out my website **@** [**daviddaniliuc.com**](https://www.daviddaniliuc.com/)
+- more stuff **@** [**daviddaniliuc.com**](https://www.daviddaniliuc.com/)
