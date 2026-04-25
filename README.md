@@ -1,10 +1,8 @@
-## hi, im david daniliuc
+## Hi, I'm David Daniliuc 👋
 
----
+- cs specialist & math major **@** **uoft**
 
-- cs specialist & math major **@** <span style="color:lightblue">**uoft**</span>
-
-- infrastructure engineering intern **@** <span style="color:lightgreen">**shopify** <u>[summer 2026]</u></span>
+- infrastructure engineering intern **@** **shopify [summer 2026]**
 
 - currently revamping [**Indus**](https://indus-trade.vercel.app/)
 
