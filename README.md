@@ -4,6 +4,6 @@
 
 - infrastructure engineering intern **@** **shopify [summer 2026]**
 
-- currently revamping [**Indus**](https://indus-trade.vercel.app/)
+- currently launching [**Indus**](https://indus-trade.vercel.app/)
 
 - more stuff **@** [**daviddaniliuc.com**](https://www.daviddaniliuc.com/)
