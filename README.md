@@ -1,8 +1,8 @@
 ## Hi, I'm David Daniliuc 👋
 
-- cs specialist & math major **@** **uoft**
-
 - infrastructure engineering intern **@** **shopify [summer 2026]**
+
+- cs specialist & math major **@** **uoft**
 
 - currently launching [**Indus**](https://indus-trade.vercel.app/)
 
