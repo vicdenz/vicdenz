@@ -1,8 +1,8 @@
 ## Hi, I'm David Daniliuc 👋
 
-- infrastructure engineering intern **@** **shopify [summer 2026]**
-
 - cs specialist & math major **@** **uoft**
+
+- prev. swe **@** **shopify [summer 2026]**
 
 - currently launching [**Indus**](https://indus-trade.vercel.app/)
 
