@@ -4,6 +4,6 @@
 
 - prev. swe **@** **shopify [summer 2026]**
 
-- currently launching [**Indus**](https://indus-trade.vercel.app/)
+- currently launching [**Indus**](https://tryindus.ca/)
 
-- more stuff **@** [**daviddaniliuc.com**](https://www.daviddaniliuc.com/)
+- more stuff + music **@** [**daviddaniliuc.com**](https://www.daviddaniliuc.com/)
